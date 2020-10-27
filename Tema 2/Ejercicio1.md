@@ -1,6 +1,6 @@
 # Ejercicio 1
 
-### Buscar una aplicación de ejemplo, preferiblemente propia, y deducir qué patrón es el que usa. ¿Qué habría que hacer para evolucionar a un patrón tipo microservicios?
+### Instalar alguno de los entornos virtuales de node.js (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión minor más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
 
 
 Se ha escogido el lenguaje node.js para realizar este ejercicio. Además, el entorno virtual desde el que se va a instalar es nvm.
@@ -20,13 +20,6 @@ Por último pasamos a instalar las diferentes versiones con las ordenes:
  
  y usamos nvm ls para mostrar todas.
 
-![Imagen](Img/TFG.png)
-
-
-
-
-
-
-
+![Imagen](Img/VersionesNode.png)
 
 

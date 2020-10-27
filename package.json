@@ -1,0 +1,19 @@
+{
+  "name": "Ejercicio2-cc",
+  "version": "1.0.0",
+  "description": "Prueba para el ejercicio 2 del tema 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DADSILVER/CC-Ej-Evaluacion.git"
+  },
+  "author": "David Castro Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DADSILVER/CC-Ej-Evaluacion/issues"
+  },
+  "homepage": "https://github.com/DADSILVER/CC-Ej-Evaluacion"
+}
